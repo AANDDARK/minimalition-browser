@@ -1,0 +1,3 @@
+This software is licensed under a commercial license for use on commercial operating systems, such as Windows and macOS. Users who wish to use this software on these platforms must obtain a license through Patreon or other specified channels.
+
+By obtaining a commercial license, you are granted the right to use, reproduce, and distribute the software for commercial purposes on Windows and macOS.
